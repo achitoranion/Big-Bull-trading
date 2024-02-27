@@ -1,6 +1,9 @@
 body {
-  font-family: Nunito sans;
+  font-family: "Poppins", sans-serif;
   overflow-x: hidden; /* Prevent horizontal scrolling */
+}
+p{
+  font-family: lato , sans-serif;
 }
 
 .bas_styl {
@@ -46,6 +49,7 @@ body {
 
 /* menu text */
 .nav-txt {
+  font-family: lato, sans-serif;
   font-size: 24px;
   color: white;
 }
@@ -57,7 +61,7 @@ body {
 /* Hero Section */
 .Hero_sec {
   color: #222;
-  background-color: #fff7f1;
+  background-color: #faffe8;
   overflow-x: hidden;
 }
 .hero_div {
@@ -77,7 +81,7 @@ body {
 }
 
 .hero_col1_h2 {
-  font-size: 60px;
+  font-size: 48px;
 }
 .hero_col1_p1 {
   font-size: 18px;
