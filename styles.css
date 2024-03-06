@@ -81,7 +81,10 @@ p{
 }
 
 .hero_col1_h2 {
+  font-family: anton, sans-serif;
   font-size: 48px;
+  letter-spacing: 2px;
+  line-height: 1.2em;
 }
 .hero_col1_p1 {
   font-size: 18px;
